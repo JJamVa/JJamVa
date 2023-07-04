@@ -9,6 +9,9 @@
 <br />
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+
 <br />
 </div>
 
