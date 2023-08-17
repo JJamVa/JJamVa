@@ -42,5 +42,9 @@ Here are some ideas to get you started:
 	
 </div>
 
-<!--[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chung1306)](https://solved.ac/chung1306) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJamVa&show_icons=true&theme=tokyonight)
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJamVa&layout=compact&theme=rose_pine" alt="Top Langs" height="175">
+    <img src="https://github-readme-stats.vercel.app/api?username=JJamVa&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="175">
+  </p>
+</div>
